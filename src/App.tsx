@@ -58,7 +58,7 @@ interface CatalogProduct {
 }
 
 const STORE_CONFIG = {
-  whatsappNumber: '5511959198024',
+  whatsappNumber: '5567993174612',
   instagramUrl: 'https://www.instagram.com/',
   googleReviewUrl: 'https://maps.google.com/?cid=2634707571364447676',
   locations: [
@@ -515,7 +515,7 @@ export default function App() {
         <section className="p-5 space-y-3.5" aria-label="Links">
           {/* CTA 1: Comprar pelo WhatsApp */}
           <a
-            href="https://wa.me/5511959198024?text=Ol%C3%A1!%20Vim%20pelo%20site%20da%20Energy%20Stor3%20e%20quero%20saber%20os%20produtos%20e%20pre%C3%A7os."
+            href="https://wa.me/5567993174612?text=Ol%C3%A1!%20Vim%20pelo%20site%20da%20Energy%20Stor3%20e%20quero%20saber%20os%20produtos%20e%20pre%C3%A7os."
             target="_blank"
             rel="noopener noreferrer"
             className="relative overflow-hidden flex items-center justify-between p-4 rounded-3xl bg-gradient-to-r from-[#ff5500] via-[#d9460f] to-[#9a3412] text-white shadow-xl shadow-orange-950/50 hover:scale-[1.01] transition"
@@ -542,7 +542,7 @@ export default function App() {
 
           {/* CTA 2: Assistência Técnica */}
           <a
-            href="https://wa.me/5511959198024?text=Ol%C3%A1!%20Vim%20pelo%20site%20da%20Energy%20Stor3%20e%20quero%20um%20or%C3%A7amento%20de%20assist%C3%AAncia%20t%C3%A9cnica."
+            href="https://wa.me/5567993174612?text=Ol%C3%A1!%20Vim%20pelo%20site%20da%20Energy%20Stor3%20e%20quero%20um%20or%C3%A7amento%20de%20assist%C3%AAncia%20t%C3%A9cnica."
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center justify-between p-4 rounded-3xl bg-slate-50 dark:bg-[#141624] hover:bg-slate-100 dark:hover:bg-[#191c2e] border border-slate-200 dark:border-white/10 transition"
@@ -593,7 +593,7 @@ export default function App() {
 
           {/* CTA 3: Atacado e Varejo */}
           <a
-            href="https://wa.me/5511959198024?text=Ol%C3%A1!%20Vim%20pelo%20site%20da%20Energy%20Stor3%20e%20quero%20condi%C3%A7%C3%B5es%20de%20atacado%20e%20varejo."
+            href="https://wa.me/5567993174612?text=Ol%C3%A1!%20Vim%20pelo%20site%20da%20Energy%20Stor3%20e%20quero%20condi%C3%A7%C3%B5es%20de%20atacado%20e%20varejo."
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center justify-between p-4 rounded-3xl bg-slate-50 dark:bg-[#141624] hover:bg-slate-100 dark:hover:bg-[#191c2e] border border-slate-200 dark:border-white/10 transition"
@@ -881,14 +881,14 @@ export default function App() {
 
               {/* Card de Telefone */}
               <a
-                href="tel:+5511959198024"
+                href="tel:+5567993174612"
                 className="flex items-center gap-3.5 p-4 rounded-2xl bg-[#1a1c26]/90 hover:bg-[#222533] border border-white/10 transition"
               >
                 <div className="w-11 h-11 rounded-xl bg-white/10 flex items-center justify-center text-slate-200 shrink-0">
                   <Phone className="w-5 h-5" />
                 </div>
                 <span className="text-sm font-semibold text-white tabular-nums">
-                  (11) 95919-8024
+                  +55 (67) 99317-4612
                 </span>
               </a>
             </div>
@@ -1113,7 +1113,7 @@ export default function App() {
         </button>
 
         <a
-          href="https://wa.me/5511959198024?text=Ol%C3%A1!%20Vim%20pelo%20site%20da%20Energy%20Stor3%20e%20quero%20atendimento."
+          href="https://wa.me/5567993174612?text=Ol%C3%A1!%20Vim%20pelo%20site%20da%20Energy%20Stor3%20e%20quero%20atendimento."
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Chamar no WhatsApp"
