@@ -1,0 +1,6 @@
+{
+  "name": "Energy Stor3 - BioSite & Catálogo",
+  "description": "Eletrônicos, acessórios e assistência técnica em São Paulo/SP. Celulares iPhone e Android, games, atacado e varejo no Bom Retiro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
